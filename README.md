@@ -4,7 +4,7 @@ Utile pour travailler avec de la 3D.
 
 Installation : 
 
-1. git clone https://github.com/zeroonequantic/gpumonit.git
+1. git clone https://github.com/0xadmm/gpumonit.git
 2. cd gpumonit
 3. pip install -r requirements.txt
 4. python3 m.py
